@@ -7,3 +7,20 @@ Well I have done following.
 3) cd ../; git add <new_dir_name>
 4) git commit -m "message"
 5) git push
+
+
+
+
+
+----------------------
+Submoduling from Wednesday has worked.
+Verifying it now.
+Steps followed
+
+1) create a folder wednesday. and followed the sets in Submoduling.txt
+2) now adding the tooling to wedndesday and pushed it into wednesday remote repository
+3) Finally making changes to tooling, to see if changes can be viewed from Wednesday, after git pull in wednesday.
+
+
+When I just did the git push, after making changes to dev/abc.txt
+it was reject. Probably I need to pull before I make push
