@@ -1,1 +1,9 @@
 adding a new git repo under main repo tooling
+
+Well I have done following.
+
+1) created a new directory
+2) cd into new dir. and then git init
+3) cd ../; git add <new_dir_name>
+4) git commit -m "message"
+5) git push
