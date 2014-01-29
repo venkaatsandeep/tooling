@@ -1,0 +1,4 @@
+
+1) created a new branch
+2) initialized the git init
+3) Lets see..
